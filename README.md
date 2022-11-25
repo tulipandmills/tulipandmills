@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @tulipandmills
+- 👀 I’m interested in coding, data management, UI and UX development and improvement. Coding is not ment for computers, it's a tool to help people improve their lives.
+- 🌱 I’m currently improving my Flutter skills, after years of Angular and NodeJS.
+- 💞️ I’m looking to work on projects focussed on social and environmental development
+- 📫 How to reach me: info@doranpauka.com
